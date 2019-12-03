@@ -1,5 +1,0 @@
-name: labels
-description: labels
-type: jython
-produces: json
-file: labels.py

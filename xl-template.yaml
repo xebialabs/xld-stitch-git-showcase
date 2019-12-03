@@ -1,4 +1,4 @@
-name: hipster_kubernetes_template
-description: This is template description
+name: stitch_showcase_template
+description: This is a showcase template
 fragments:
-  - labels
+  - kind-override

@@ -1,0 +1,4 @@
+name: kind-override
+description: Kind override
+type: jython
+file: override.py
