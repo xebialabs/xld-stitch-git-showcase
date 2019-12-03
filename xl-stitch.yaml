@@ -1,0 +1,13 @@
+apiVersion: v1
+namespace: the-namespace
+description: A stich repo for the hipster shop
+icon:
+name: hipster-shop-in-folder-multi-fragments
+home: https://github.com/xebialabs/stitch-hipster-shop-template
+version: 0.3.2
+maintainers:
+  - name: Paul
+    email: pvanderende@xebialabs.com
+keywords:
+  - hipster
+  - shop

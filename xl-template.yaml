@@ -1,0 +1,4 @@
+name: hipster_kubernetes_template
+description: This is template description
+fragments:
+  - labels
